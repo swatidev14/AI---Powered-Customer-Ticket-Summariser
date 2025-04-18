@@ -1,0 +1,16 @@
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+# Virtual environment (if you create one)
+venv/
+.venv/
+env/
+# OS generated files
+.DS_Store
+Thumbs.db
+# Data files (can be large) -  UNCOMMENT if you don't want to track them!
+# data/raw/
+# data/processed/
+# Log files
+*.log
